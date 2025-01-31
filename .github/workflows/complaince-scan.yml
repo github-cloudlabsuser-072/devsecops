@@ -18,4 +18,4 @@ jobs:
         scopes: |
           /subscriptions/834e4d64-f129-4e7c-93e3-33ceeb786932/resourceGroups/contoso-traders-rg1586047               
         scopes-ignore: |
-          /subscriptions/834e4d64-f129-4e7c-93e3-33ceeb786932/resourceGroups/contoso-traders-rg1586047/providers/contoso-traders-rg1586047
+          /subscriptions/834e4d64-f129-4e7c-93e3-33ceeb786932/resourceGroups/contoso-traders-rg1586047/providers/microsoft.authorization
